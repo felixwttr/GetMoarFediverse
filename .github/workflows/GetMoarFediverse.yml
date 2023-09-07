@@ -17,7 +17,7 @@ jobs:
         uses: andymckay/get-gist-action@0.1
         with:
           # URL to the gist
-          gistURL: https://gist.githubusercontent.com/felixwttr/a4be146b86ccea4566adf2d7810af0d3/raw/85a06def2a7425dd23deade81f4b3004ebcb7d5a/config.json
+          gistURL: https://gist.github.com/felixwttr/a4be146b86ccea4566adf2d7810af0d3
       - uses: actions/checkout@v3
       - uses: g3rv4/GetMoarFediverse@main
         with:
