@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
-    "Tags": [ "dotnet", "csharp" ],
-    "Instances": [ "hachyderm.io", "mastodon.social" ]
+    "Tags": [ "warendorf", "münster", "fahrrad", "neuhier" ],
+    "Instances": [ "hachyderm.io", "mastodon.social", "nrw.social", "social.wittwer.dev" ]
 }
