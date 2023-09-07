@@ -1,1 +1,6 @@
-
+{
+    "FakeRelayUrl": "https://fakerelay.gervas.io",
+    "FakeRelayApiKey": ,
+    "Tags": [ "dotnet", "csharp" ],
+    "Instances": [ "hachyderm.io", "mastodon.social" ]
+}
