@@ -19,7 +19,7 @@ jobs:
           # URL to the gist
           gistURL: https://gist.github.com/felixwttr/a4be146b86ccea4566adf2d7810af0d3
       - uses: actions/checkout@v3
-      - uses: g3rv4/GetMoarFediverse@main
+      - uses: felixwttr/GetMoarFediverseAction@main
         with:
           config_file: ${{ steps.config.outputs.file }} # ${{ github.workspace }}/config.json
           api_key: ${{ secrets.FAKERELAY_APIKEY }}
