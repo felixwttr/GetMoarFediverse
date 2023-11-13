@@ -23,5 +23,5 @@ jobs:
         with:
           config_file: ${{ steps.config.outputs.file }} # ${{ github.workspace }}/config.json
           api_key: ${{ secrets.FAKERELAY_APIKEY }}
-      - name: Keep workflow alive
-        uses: gautamkrishnar/keepalive-workflow@v1
+      #- name: Keep workflow alive
+      #  uses: gautamkrishnar/keepalive-workflow@v1
